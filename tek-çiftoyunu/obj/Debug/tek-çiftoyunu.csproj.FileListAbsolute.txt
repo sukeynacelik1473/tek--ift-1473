@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\bin\Debug\tek-çiftoyunu.exe.config
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\bin\Debug\tek-çiftoyunu.exe
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\bin\Debug\tek-çiftoyunu.pdb
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\obj\Debug\tek-çiftoyunu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\obj\Debug\tek-çiftoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\obj\Debug\tek_çiftoyunu.Form1.resources
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\obj\Debug\tek_çiftoyunu.Properties.Resources.resources
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\obj\Debug\tek-çiftoyunu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\obj\Debug\tek-çiftoyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\obj\Debug\tek-çiftoyunu.exe
+C:\Users\User\source\repos\tek-çiftoyunu\tek-çiftoyunu\obj\Debug\tek-çiftoyunu.pdb
